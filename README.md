@@ -225,7 +225,7 @@ Key KPIs displayed in the Power BI dashboard:
 ### Clone the repository
 
 ```
-git clone https://github.com/CodingWithDevraj/customer-churn-revenue-intelligence.git
+https://github.com/CodingWithDevraj/customer-churn-revenue-intelligence.git
 ```
 
 ### Install dependencies
