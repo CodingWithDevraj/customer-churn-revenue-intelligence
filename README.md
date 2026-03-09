@@ -111,7 +111,7 @@ Key variables include:
 • Churn label
 
 The interactive Dashboard :
-![Uploading e4f8cdb7-1.png…]()
+https://mail.google.com/mail/u/0?ui=2&ik=c26b798d6a&attid=0.1&permmsgid=msg-a:r4209604513089640552&th=19cd32ec3e9b7090&view=att&disp=safe&realattid=f_mmjbuil90&zw
 
 
 ---
