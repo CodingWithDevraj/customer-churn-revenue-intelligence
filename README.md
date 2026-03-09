@@ -110,6 +110,10 @@ Key variables include:
 • Total charges
 • Churn label
 
+The interactive Dashboard :
+![Uploading e4f8cdb7-1.png…]()
+
+
 ---
 
 # 🏗 Project Architecture
