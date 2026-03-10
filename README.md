@@ -188,23 +188,38 @@ These insights help companies:
 ```
 customer-churn-revenue-intelligence
 │
+├── app.py
+├── README.md
+│
 ├── data
-│   └── telco_customer_churn.csv
+│   ├── raw
+│   │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   │
+│   └── processed
+│       ├── cleaned_churn_data.csv
+│       ├── churn_sql_dataset.csv
+│       └── churn_dashboard_dataset.csv
 │
 ├── notebooks
 │   └── churn_analysis.ipynb
 │
-├── models
-│   └── churn_model.pkl
+├── sql
+│   └── churn_analysis.sql
 │
 ├── dashboard
-│   └── churn_dashboard.pbix
+│   ├── churn_dashboard.pbix
+│   └── powerbi_dashboard.png
 │
-├── sql
-│   └── revenue_analysis.sql
+├── images
+│   ├── churn_distribution.png
+│   ├── churn_by_contract.png
+│   ├── churn_by_tenure.png
+│   ├── churn_by_charges.png
+│   ├── churn_by_clv.png
+│   ├── revenue_vs_churn.png
+│   └── risk_level_vs_churn.png
 │
-└── README.md
-```
+└── models
 
 ---
 
