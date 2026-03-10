@@ -223,6 +223,8 @@ customer-churn-revenue-intelligence
 
 ---
 
+```
+
 # 📊 Example Dashboard Metrics
 
 Key KPIs displayed in the Power BI dashboard:
