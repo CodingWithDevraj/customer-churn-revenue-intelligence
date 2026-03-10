@@ -121,7 +121,7 @@ with tab1:
         fig.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(fig, use_container_width=True)
 
-    st.subheader("Enterprise BI Overview")
+    st.subheader("Power BI Overview")
     st.image("dashboard/powerbi_dashboard.png", use_container_width=True)
 
 with tab2:
