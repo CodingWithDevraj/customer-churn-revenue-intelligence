@@ -220,33 +220,89 @@ Key KPIs displayed in the Power BI dashboard:
 
 ---
 
-# ▶️ How to Run the Project
+---
 
-### Clone the repository
+## How to Run the Project
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/CodingWithDevraj/customer-churn-revenue-intelligence.git
+cd customer-churn-revenue-intelligence
 ```
-https://github.com/CodingWithDevraj/customer-churn-revenue-intelligence.git
-```
-
-### Install dependencies
-
-```
-pip install pandas scikit-learn numpy matplotlib seaborn
-```
-
-### Run the analysis notebook
-
-Open:
-
-```
-notebooks/churn_analysis.ipynb
-```
-
-### Open Power BI Dashboard
-
-Open the `.pbix` file using **Power BI Desktop**.
 
 ---
+
+### 2. Install Dependencies
+
+Create a virtual environment (recommended) and install required packages.
+
+```bash
+pip install -r requirements.txt
+```
+
+Required libraries include:
+
+* pandas
+* numpy
+* scikit-learn
+* streamlit
+* plotly
+* matplotlib
+* seaborn
+
+---
+
+### 3. Run Data Analysis Notebook
+
+Open the Jupyter notebook to explore data preprocessing, feature engineering, and machine learning models.
+
+```bash
+jupyter notebook notebooks/churn_analysis.ipynb
+```
+
+---
+
+### 4. Run the Streamlit Web App
+
+Launch the interactive analytics app locally.
+
+```bash
+streamlit run app.py
+```
+
+The application will open in your browser at:
+
+```
+http://localhost:8501
+```
+
+---
+
+### 5. View the Power BI Dashboard
+
+Open the Power BI dashboard file:
+
+```
+dashboard/churn_dashboard.pbix
+```
+
+using **Power BI Desktop** to explore the interactive visualizations.
+
+---
+
+## Live Demo
+
+You can view the deployed Streamlit application here:
+
+```
+https://customer-churn-revenue-intelligence-w5elzw32zutjz2hdfjfnqu.streamlit.app/
+```
+
+---
+
+
+
 
 # 🔮 Future Improvements
 
