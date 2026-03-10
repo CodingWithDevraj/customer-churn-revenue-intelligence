@@ -288,8 +288,5 @@ GitHub
 LinkedIn
 [https://www.linkedin.com/in/devraj-choudhary-3889412bb/](https://www.linkedin.com/in/devraj-choudhary-3889412bb/)
 
-Streamlit Dashboard
-
-
 ---
 
