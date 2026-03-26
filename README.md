@@ -105,7 +105,7 @@ Key variables include:
 • Total charges
 • Churn label
 
-The interactive Dashboard :
+## The interactive Dashboard :
 <img width="2767" height="1600" alt="e4f8cdb7-1 (1)" src="https://github.com/user-attachments/assets/72d32987-dd80-4877-8f70-708a407bc63c" />
 
 
