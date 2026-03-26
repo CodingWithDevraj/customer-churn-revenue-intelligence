@@ -1,9 +1,4 @@
-# 📉 Customer Churn & Revenue Intelligence Platform
-
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange)
-![SQL](https://img.shields.io/badge/SQL-Analytics-lightgrey)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+# Customer Churn & Revenue Intelligence Platform
 
 An **end-to-end data analytics and machine learning platform** designed to **identify customers at risk of churn and estimate potential revenue loss**.
 
@@ -13,7 +8,7 @@ Built using **Python, SQL, and Power BI**, the system transforms raw telecom cus
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 Customer churn is one of the most critical challenges for **subscription-based businesses**. Losing customers directly impacts **revenue stability and long-term growth**.
 
@@ -33,9 +28,9 @@ The platform helps organizations answer key business questions:
 
 ---
 
-# ⭐ Key Features
+#  Key Features
 
-## 1️⃣ Churn Prediction Model
+## 1️. Churn Prediction Model
 
 A machine learning model predicts the probability that a customer will churn.
 
@@ -48,7 +43,7 @@ Key steps include:
 
 ---
 
-## 2️⃣ Revenue Risk Analysis
+## 2️. Revenue Risk Analysis
 
 The platform estimates **potential revenue loss caused by churn**.
 
@@ -62,7 +57,7 @@ This helps companies prioritize **high-impact retention strategies**.
 
 ---
 
-## 3️⃣ Interactive Power BI Dashboard
+## 3️. Interactive Power BI Dashboard
 
 An interactive **business intelligence dashboard** was built to visualize churn insights.
 
@@ -88,7 +83,7 @@ Dashboard views include:
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 **IBM Telco Customer Churn Dataset**
 
@@ -117,7 +112,7 @@ The interactive Dashboard :
 
 ---
 
-# 🏗 Project Architecture
+# Project Architecture
 
 ```
 Data Source
@@ -141,15 +136,15 @@ This architecture demonstrates a **complete analytics pipeline used in modern da
 
 ---
 
-# 🤖 Machine Learning Workflow
+# Machine Learning Workflow
 
-1️⃣ Data preprocessing
-2️⃣ Handling missing values
-3️⃣ Encoding categorical variables
-4️⃣ Feature scaling
-5️⃣ Train/test split
-6️⃣ Model training
-7️⃣ Performance evaluation
+1️. Data preprocessing
+2️. Handling missing values
+3️. Encoding categorical variables
+4️. Feature scaling
+5️. Train/test split
+6️. Model training
+7️. Performance evaluation
 
 Models explored:
 
@@ -165,7 +160,7 @@ Evaluation metrics:
 
 ---
 
-# 📈 Business Insights Generated
+# Business Insights Generated
 
 The analysis reveals several key churn patterns:
 
@@ -183,7 +178,7 @@ These insights help companies:
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```
 customer-churn-revenue-intelligence
@@ -224,7 +219,7 @@ customer-churn-revenue-intelligence
 
 ```
 
-# 📊 Example Dashboard Metrics
+# Example Dashboard Metrics
 
 Key KPIs displayed in the Power BI dashboard:
 
@@ -320,7 +315,7 @@ https://customer-churn-revenue-intelligence-w5elzw32zutjz2hdfjfnqu.streamlit.app
 
 
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Possible extensions for the project:
 
@@ -331,7 +326,7 @@ Possible extensions for the project:
 
 ---
 
-# ⭐ Project Highlights
+# Project Highlights
 
 • End-to-end data analytics pipeline
 • Real-world telecom churn dataset
@@ -341,7 +336,7 @@ Possible extensions for the project:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Devraj Choudhary**
 
