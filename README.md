@@ -71,7 +71,7 @@ Dashboard views include:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 | Category           | Tools        |
 | ------------------ | ------------ |
